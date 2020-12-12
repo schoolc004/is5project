@@ -1,0 +1,29 @@
+* {margin: 0; padding: 0; font-family: times new roman; }
+body { background: url('images/background.jpg');
+	background-size: 100%; }
+profiles{ background: url('images/2.jpg');width: 220px;height:200px; background-repeat: no-repeat;
+	background-size: 100%; float:right}
+	nav { background: url('images/background.jpg');width: 220px;height:200px; background-repeat: no-repeat;
+	background-size: 100%;}
+	main { padding: 15px; width: 50%; }float:
+	aside { padding: 15px; width: 20%; float: right; }
+	footer { font-size: 12px; padding: 20px; }
+	.banner {background: url('images/war.gif') top left no-repeat transparent; height: 
+	 250px; width 100%; margin: 15px 0px;}
+
+* {margin: 0; padding: 0; font-family: times new roman; }
+body { background: url('images/background.jpg');
+	background-size: 100%; }
+profiles{
+	float: right;
+	padding: 15px 50px; 
+	}
+	img {border-radius: 30%;
+	} 
+nav { background: url('images/background.jpg');width: 500px;height:100px;background-repeat: no-repeat;
+	background-size: 100%; }
+main { padding: 15px; width: 50%; }float:
+aside { padding: 15px; width: 20%; float: right; }
+footer { font-size: 12px; padding: 20px; }
+.banner {background: url('images/3.jpg') top left no-repeat transparent; height: 
+	 250px; width 300%; margin: 15px 0px;}
